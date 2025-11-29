@@ -3,7 +3,7 @@ package com.pattern;
 /*
 THis program is to create a different pattern based on the requirement
  */
-public class Main {
+public class JavaPattern {
     public static void main(String[] args) {
         /* Print Pattern like below
         1111
