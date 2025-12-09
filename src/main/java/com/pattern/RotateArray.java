@@ -1,10 +1,13 @@
 package com.pattern;
 
 import java.util.Arrays;
+import java.util.List;
 
 public class RotateArray {
+    
     public static void main(String[] args) {
         int [] arr = {2,5,7,21,34,37,41,42};
+
         //From first Approach without optimisation
         int [] arr1 = rotateArray(arr,2);
         int [] arr2 = rotateArrayOptimise(arr,2);
