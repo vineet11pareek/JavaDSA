@@ -32,6 +32,16 @@
 
 - **`TwoSum.java`**  
   Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
+- **`PalindromeNumber.java`**
+  Given an integer x, return true if x is a palindrome, and false otherwise.
+
+- **`MergeTwoSortedList.java`**
+  You are given the heads of two sorted linked lists list1 and list2.
+  Merge the two lists into one sorted list. The list should be made by
+  splicing together the nodes of the first two lists.
+  Return the head of the merged linked list.
+
 ---
 
 ### `search`
