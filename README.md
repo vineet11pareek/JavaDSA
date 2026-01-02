@@ -42,6 +42,39 @@
   splicing together the nodes of the first two lists.
   Return the head of the merged linked list.
 
+- **`FindTheIndexOfFirstOccurrence.java`**
+  Given two strings needle and haystack,
+  return the index of the first occurrence of needle in haystack,
+  or -1 if needle is not part of haystack.
+
+- **`RemoveElement.java`**
+  Given an integer array nums and an integer val,
+  remove all occurrences of val in nums in-place. The order of the elements may
+  be changed. Then return the number of elements in nums which are not equal to val.
+
+- **`SearchInsertPosition.java`**
+  Given a sorted array of distinct integers and a target value,
+  return the index if the target is found. If not,
+  return the index where it would be if it were inserted in order.
+
+- **`LengthOfLastWord.java`**
+  Given a string s consisting of words and spaces,
+  return the length of the last word in the string.
+
+- **`PlusOne.java`**
+  You are given a large integer represented as an integer array digits,
+  where each digits[i] is the ith digit of the integer. The digits are ordered from most significant to least significant in left-to-right order.
+  The large integer does not contain any leading 0's.
+
+- **`SquareRoot.java`**
+  Given a non-negative integer x, return the square root of x rounded down to the nearest integer.
+  The returned integer should be non-negative as well.
+
+- **`RemoveDuplicateFromSortedArray.java`**
+  Given an integer array nums sorted in non-decreasing order,
+  remove the duplicates in-place such that each unique element appears only once.
+  The relative order of the elements should be kept the same.
+
 ---
 
 ### `search`
