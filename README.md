@@ -75,6 +75,28 @@
   remove the duplicates in-place such that each unique element appears only once.
   The relative order of the elements should be kept the same.
 
+- **`83. Remove Duplicates from Sorted List`**
+  Given the head of a sorted linked list,
+  delete all duplicates such that each element appears only once.
+  Return the linked list sorted as well.
+
+- **`70.Climbing Stairs`**
+  You are climbing a staircase. It takes n steps to reach the top.
+  Each time you can either climb 1 or 2 steps.
+  In how many distinct ways can you climb to the top?
+
+- **`88.Merge Sorted Array`**
+  You are given two integer arrays nums1 and nums2,
+  sorted in non-decreasing order, and two integers m and n,
+  representing the number of elements in nums1 and nums2 respectively.
+
+- **`100.Same Tree`**
+  Given the roots of two binary trees p and q,
+  write a function to check if they are the same or not.
+
+- **`94.Binary Tree Inorder Traversal`**
+  Given the root of a binary tree, return the inorder traversal of its nodes' values.
+
 ---
 
 ### `search`
