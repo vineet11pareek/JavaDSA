@@ -109,6 +109,16 @@
 - **`108.Convert Sorted Array to Binary Search Tree`**
   Given an integer array nums where the elements are sorted in ascending order,
   convert it to a height-balanced binary search tree.
+- **`111. Minimum Depth of Binary Tree`**
+  Given a binary tree, find its minimum depth.
+  The minimum depth is the number of nodes along the shortest path from
+  the root node down to the nearest leaf node.
+- **`118. Pascal's Triangle`**
+  Given an integer numRows, return the first numRows of Pascal's triangle.
+  In Pascal's triangle, each number is the sum of the two numbers directly above it.
+- **`118. Pascal's Triangle`**
+  Given an integer numRows, return the first numRows of Pascal's triangle.
+  In Pascal's triangle, each number is the sum of the two numbers directly above it as shown:
 ---
 
 ### `search`
