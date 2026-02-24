@@ -1,6 +1,4 @@
-package leetcode;
-
-import java.util.Arrays;
+package leetcode.arrays;
 
 /*
 26. Remove Duplicates from Sorted Array

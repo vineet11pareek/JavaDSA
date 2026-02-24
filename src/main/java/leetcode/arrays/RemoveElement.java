@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.arrays;
 
 /*
 27. Remove Element
